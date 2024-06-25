@@ -1,0 +1,4 @@
+# Exemple de projet sous node.js
+
+installer les dépendances: npm install
+démarrer le serveur: npm start (nodemon permet de relancer le server après chaque modification)
